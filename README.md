@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furuyad&count_private=true&show_icons=true&theme=radical)](https://github.com/furuyad/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align=left height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
+  <img align=left height="150px" src="https://github-readme-stats.vercel.app/api?username=furuyad&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **furuyad/furuyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

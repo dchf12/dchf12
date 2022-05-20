@@ -3,8 +3,8 @@
 <a  href="https://github.com/anuraghazra/github-readme-stats">
   <table align="left">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furuyad" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=furuyad&count_private=true&show_icons=true" /></td>
+    <td><img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furuyad" /></td>
+    <td><img height="220" src="https://github-readme-stats.vercel.app/api?username=furuyad&count_private=true&show_icons=true" /></td>
   </tr>
   </table>
 </a>

@@ -1,12 +1,8 @@
 ### Hi there 👋
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
-  <table align="left">
-  <tr>
-    <td><img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furuyad" /></td>
-    <td><img height="220" src="https://github-readme-stats.vercel.app/api?username=furuyad&count_private=true&show_icons=true" /></td>
-  </tr>
-  </table>
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furuyad" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=furuyad&count_private=true&show_icons=true" />
 </a>
 
 

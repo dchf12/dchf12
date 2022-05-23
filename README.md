@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furuyad" />
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=furuyad&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furuyad" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furuyad&count_private=true&show_icons=true&line_height=40" />
 </a>
 
 

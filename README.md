@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furuyad" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furuyad&hide=CSS" />
   <img src="https://github-readme-stats.vercel.app/api?username=furuyad&count_private=true&show_icons=true&line_height=40" />
 </a>
 
